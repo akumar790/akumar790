@@ -4,6 +4,7 @@
 - 👨‍💻 View my project on AI-based Sentiment Analysis: How does the intensity of language used in X (formerly Twitter) differ between apparent climate change advocates and sceptics? [https://github.com/akumar790/sentimentanalysis.git](https://github.com/akumar790/sentimentanalysis.git)
 
 - 👨‍💻 View my project on creating graphical way to determine optimum value of inductor for circuit [https://github.com/akumar790/InductorSizing.git](https://github.com/akumar790/InductorSizing.git)
+- 👨‍💻 View my work on analysing differnt factors contributing to cardiovascular disease [https://github.com/akumar790/CardioVascularDisease.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
