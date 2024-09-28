@@ -5,6 +5,7 @@
 
 - 👨‍💻 View my project on creating graphical way to determine optimum value of inductor for circuit [https://github.com/akumar790/InductorSizing.git](https://github.com/akumar790/InductorSizing.git)
 - 👨‍💻 View my work on analysing differnt factors contributing to cardiovascular disease [https://github.com/akumar790/CardioVascularDisease.git)
+- 👨‍💻 View my work on determining YoungModlus for a given experiment using Matlab [https://github.com/akumar790/YoungModulus.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
