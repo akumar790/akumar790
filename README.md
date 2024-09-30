@@ -8,6 +8,7 @@
 - 👨‍💻 View my work on sales visualization in Python [https://github.com/akumar790/SalesFestival.git)
 - 👨‍💻 View my work on quadratic Programming in Matlab [https://github.com/akumar790/Economicdispatch.git)
 - 👨‍💻 View my work on optimizing power generation in Matlab [https://github.com/akumar790/optimumPowerGeneration.git)
+- 👨‍💻 Electric Load Prediction in Matlab[https://github.com/akumar790/LoadPrediction.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
