@@ -3,7 +3,7 @@
 
 - 👨‍💻 View my project on AI-based Sentiment Analysis: How does the intensity of language used in X (formerly Twitter) differ between apparent climate change advocates and sceptics? [https://github.com/akumar790/sentimentanalysis.git](https://github.com/akumar790/sentimentanalysis.git)
 - 👨‍💻 Creating a graphical way to determine the optimum Inductor value [https://github.com/akumar790/InductorSizing.git)
-- 👨‍💻 View my work on analysing different factors contributing to cardiovascular disease [https://github.com/akumar790/CardioVascularDisease.git)
+- 👨‍💻 Analysis different factors contributing to cardiovascular disease [https://github.com/akumar790/CardioVascularDisease.git)
 - 👨‍💻 View my work on determining YoungModlus for a given experiment using Matlab [https://github.com/akumar790/YoungModulus.git)
 - 👨‍💻 View my work on sales visualization in Python [https://github.com/akumar790/SalesFestival.git)
 - 👨‍💻 View my work on quadratic Programming in Matlab [https://github.com/akumar790/Economicdispatch.git)
